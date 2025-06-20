@@ -9,7 +9,6 @@
 
 ### 🔭 Current Focus
 - 🚀 Building scalable web apps with **Next.js & TypeScript**
-- 📚 Learning **DevOps** and **Backend Architecture**
 - 💼 Personal Portfolio: [virajtharuka.netlify.app](https://virajtharuka.netlify.app/)
 
 ### 📫 Reach Me
@@ -48,9 +47,6 @@
 ---
 
 ### 📂 Featured Projects
-
-- 🧾 **Debt Tracker System** – A full-stack MERN app to track personal loans  
-  [🔗 GitHub](https://github.com/vtranathunga1998/debt-tracker-system) | [🌐 Demo](https://debt-tracker-app.netlify.app)
 
 - 📺 **Free2Fix YouTube Channel** – Fixing electronics & programming tutorials  
   [📺 Watch Now](https://youtube.com/@free2fix?si=3wcxefihhouu-qam)
